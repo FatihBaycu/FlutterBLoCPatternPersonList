@@ -1,8 +1,15 @@
 # flutter_sm_bloc_list
 
-A new Flutter application.
+A new Flutter BLoC Pattern Person CRUD application.
 
 ## Getting Started
+
+![image1](https://github.com/FatihBaycu/FlutterBlocPatternPersonList/blob/main/assets/ss/person1.png)
+![image2](https://github.com/FatihBaycu/FlutterBlocPatternPersonList/blob/main/assets/ss/person2.png)
+![image3](https://github.com/FatihBaycu/FlutterBlocPatternPersonList/blob/main/assets/ss/person3.png)
+![image4](https://github.com/FatihBaycu/FlutterBlocPatternPersonList/blob/main/assets/ss/person4.png)
+![image5](https://github.com/FatihBaycu/FlutterBlocPatternPersonList/blob/main/assets/ss/person5.png)
+
 
 This project is a starting point for a Flutter application.
 
